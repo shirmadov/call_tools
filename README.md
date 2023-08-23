@@ -5,5 +5,7 @@
         docker build -t php_test -f php/Dockerfile .
         docker compose up -d
 
+        localhost:80
+
 
 Задача №2 (PHP): /app/sql.php
